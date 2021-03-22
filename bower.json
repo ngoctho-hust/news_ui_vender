@@ -1,0 +1,17 @@
+{
+  "name": "news_ui_vendor",
+  "homepage": "https://github.com/ngoctho-hust/news_ui_vendor",
+  "authors": [
+    "ngoct <ngoctho.t1k54@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
